@@ -15,7 +15,7 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 5. Display the overall results.
 
 ### PROGRAM:
-```
+```python
 !pip install pandas
 
 import pandas as pd
